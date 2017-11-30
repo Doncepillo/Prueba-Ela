@@ -1,0 +1,11 @@
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/bin/Debug/netcoreapp2.0/ElaProfesores.deps.json
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/bin/Debug/netcoreapp2.0/ElaProfesores.runtimeconfig.json
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/bin/Debug/netcoreapp2.0/ElaProfesores.runtimeconfig.dev.json
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/bin/Debug/netcoreapp2.0/ElaProfesores.dll
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/bin/Debug/netcoreapp2.0/ElaProfesores.pdb
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/obj/Debug/netcoreapp2.0/ElaProfesores.csprojResolveAssemblyReference.cache
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/obj/Debug/netcoreapp2.0/ElaProfesores.csproj.CoreCompileInputs.cache
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/obj/Debug/netcoreapp2.0/ElaProfesores.AssemblyInfoInputs.cache
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/obj/Debug/netcoreapp2.0/ElaProfesores.AssemblyInfo.cs
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/obj/Debug/netcoreapp2.0/ElaProfesores.dll
+/Users/Toga/Projects/ElaProfesores/ElaProfesores/obj/Debug/netcoreapp2.0/ElaProfesores.pdb

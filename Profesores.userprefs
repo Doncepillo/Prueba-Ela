@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{63F3F738-B005-431F-A89E-32BAB64D92C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElaProfesores/Views/Home/Ficha.cshtml">
+    <Files>
+      <File FileName="ElaProfesores/Controllers/HomeController.cs" Line="60" Column="26" />
+      <File FileName="ElaProfesores/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="ElaProfesores/Models/Profesores.cs" Line="1" Column="1" />
+      <File FileName="ElaProfesores/Views/Home/Formulario.cshtml" Line="33" Column="74" />
+      <File FileName="ElaProfesores/Views/Home/Ficha.cshtml" Line="22" Column="30" />
+      <File FileName="ElaProfesores/Views/Shared/_Layout.cshtml" Line="29" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Profesores PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

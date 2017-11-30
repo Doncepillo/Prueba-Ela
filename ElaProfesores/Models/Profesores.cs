@@ -1,0 +1,1 @@
+﻿using System; using System.Collections.Generic; using System.Linq; using System.Threading.Tasks;  namespace Profesores.Models {     public class Profesores     {         public string rut;         public string nombrecompleto;         public string titulo;         public string grado;      } } 

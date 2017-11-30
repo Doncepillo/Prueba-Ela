@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Toga/.dotnet/store/|arch|/|tfm|",
+      "/Users/Toga/.nuget/packages"
+    ]
+  }
+}
